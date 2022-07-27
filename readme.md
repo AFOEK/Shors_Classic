@@ -5,7 +5,8 @@
 usage it's simple, the program just need `N` as input which is a number you want to factorize.
 
 To-do:
-- [ ] Repair vector element access
+- [x] Repair vector element access
 - [ ] Add thread
 - [ ] Add for CUDA
 - [ ] Make the program can accept argument from console
+- [ ] Add for Quantum Computing Version
